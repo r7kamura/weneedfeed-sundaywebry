@@ -1,0 +1,518 @@
+selectors: &selectors
+  item_selector: .detail-block__item
+  item_link_selector: .
+  item_time_selector: .detail-block__item--date
+  item_title_selector: .detail-block__item--title
+pages:
+  - id: "7"
+    title: "ジンメン"
+    url: https://www.sunday-webry.com/detail.php?title_id=7
+    <<: *selectors
+  - id: "14"
+    title: "アサギロ～浅葱狼～"
+    url: https://www.sunday-webry.com/detail.php?title_id=14
+    <<: *selectors
+  - id: "37"
+    title: "ふたり生徒会"
+    url: https://www.sunday-webry.com/detail.php?title_id=37
+    <<: *selectors
+  - id: "47"
+    title: "恋情デスペラード"
+    url: https://www.sunday-webry.com/detail.php?title_id=47
+    <<: *selectors
+  - id: "48"
+    title: "吾輩の部屋である"
+    url: https://www.sunday-webry.com/detail.php?title_id=48
+    <<: *selectors
+  - id: "55"
+    title: "妹さえいればいい。＠ｃｏｍｉｃ"
+    url: https://www.sunday-webry.com/detail.php?title_id=55
+    <<: *selectors
+  - id: "56"
+    title: "ＩＳ＜インフィニット・ストラトス＞"
+    url: https://www.sunday-webry.com/detail.php?title_id=56
+    <<: *selectors
+  - id: "106"
+    title: "薄花少女"
+    url: https://www.sunday-webry.com/detail.php?title_id=106
+    <<: *selectors
+  - id: "114"
+    title: "蛇沢課長のＭ嬢"
+    url: https://www.sunday-webry.com/detail.php?title_id=114
+    <<: *selectors
+  - id: "127"
+    title: "ＲＥＣ"
+    url: https://www.sunday-webry.com/detail.php?title_id=127
+    <<: *selectors
+  - id: "196"
+    title: "巨乳ハンター"
+    url: https://www.sunday-webry.com/detail.php?title_id=196
+    <<: *selectors
+  - id: "213"
+    title: "拳児"
+    url: https://www.sunday-webry.com/detail.php?title_id=213
+    <<: *selectors
+  - id: "214"
+    title: "幻魔大戦 Ｒｅｂｉｒｔｈ"
+    url: https://www.sunday-webry.com/detail.php?title_id=214
+    <<: *selectors
+  - id: "222"
+    title: "最後は？ストレート！！"
+    url: https://www.sunday-webry.com/detail.php?title_id=222
+    <<: *selectors
+  - id: "223"
+    title: "最上の命医"
+    url: https://www.sunday-webry.com/detail.php?title_id=223
+    <<: *selectors
+  - id: "283"
+    title: "電波教師"
+    url: https://www.sunday-webry.com/detail.php?title_id=283
+    <<: *selectors
+  - id: "353"
+    title: "ぼくたちつきあってます・・・？"
+    url: https://www.sunday-webry.com/detail.php?title_id=353
+    <<: *selectors
+  - id: "380"
+    title: "焼きたて！！ジャぱん"
+    url: https://www.sunday-webry.com/detail.php?title_id=380
+    <<: *selectors
+  - id: "397"
+    title: "ワイルドライフ"
+    url: https://www.sunday-webry.com/detail.php?title_id=397
+    <<: *selectors
+  - id: "402"
+    title: "今際の路のアリス"
+    url: https://www.sunday-webry.com/detail.php?title_id=402
+    <<: *selectors
+  - id: "419"
+    title: "ササミは心配中毒"
+    url: https://www.sunday-webry.com/detail.php?title_id=419
+    <<: *selectors
+  - id: "422"
+    title: "好奇心は女子高生を殺す"
+    url: https://www.sunday-webry.com/detail.php?title_id=422
+    <<: *selectors
+  - id: "423"
+    title: "漫画学科のない大学"
+    url: https://www.sunday-webry.com/detail.php?title_id=423
+    <<: *selectors
+  - id: "424"
+    title: "おとこのこ妻"
+    url: https://www.sunday-webry.com/detail.php?title_id=424
+    <<: *selectors
+  - id: "425"
+    title: "ポケットモンスターＳＰＥＣＩＡＬ Ｂ２・Ｗ２"
+    url: https://www.sunday-webry.com/detail.php?title_id=425
+    <<: *selectors
+  - id: "427"
+    title: "汚物は消毒です"
+    url: https://www.sunday-webry.com/detail.php?title_id=427
+    <<: *selectors
+  - id: "428"
+    title: "栃ノ木のどかのアイドル日常"
+    url: https://www.sunday-webry.com/detail.php?title_id=428
+    <<: *selectors
+  - id: "429"
+    title: "天黒のラグナロク"
+    url: https://www.sunday-webry.com/detail.php?title_id=429
+    <<: *selectors
+  - id: "430"
+    title: "ひとつばな"
+    url: https://www.sunday-webry.com/detail.php?title_id=430
+    <<: *selectors
+  - id: "431"
+    title: "タロ課長、ハンコください"
+    url: https://www.sunday-webry.com/detail.php?title_id=431
+    <<: *selectors
+  - id: "434"
+    title: "忍者シノブさんの純情"
+    url: https://www.sunday-webry.com/detail.php?title_id=434
+    <<: *selectors
+  - id: "435"
+    title: "天使とアクト！！"
+    url: https://www.sunday-webry.com/detail.php?title_id=435
+    <<: *selectors
+  - id: "436"
+    title: "湯神くんには友達がいない"
+    url: https://www.sunday-webry.com/detail.php?title_id=436
+    <<: *selectors
+  - id: "437"
+    title: "魔王城でおやすみ"
+    url: https://www.sunday-webry.com/detail.php?title_id=437
+    <<: *selectors
+  - id: "438"
+    title: "されど罪人は竜と踊る 輪舞"
+    url: https://www.sunday-webry.com/detail.php?title_id=438
+    <<: *selectors
+  - id: "443"
+    title: "新・ちいさいひと 青葉児童相談所物語"
+    url: https://www.sunday-webry.com/detail.php?title_id=443
+    <<: *selectors
+  - id: "453"
+    title: "セイギタイ～明治警察伝～"
+    url: https://www.sunday-webry.com/detail.php?title_id=453
+    <<: *selectors
+  - id: "462"
+    title: "ばけじょ！－妖怪女学園へようこそ－"
+    url: https://www.sunday-webry.com/detail.php?title_id=462
+    <<: *selectors
+  - id: "463"
+    title: "死神坊ちゃんと黒メイド"
+    url: https://www.sunday-webry.com/detail.php?title_id=463
+    <<: *selectors
+  - id: "470"
+    title: "はなにあらし"
+    url: https://www.sunday-webry.com/detail.php?title_id=470
+    <<: *selectors
+  - id: "472"
+    title: "あそこではたらくムスブさん"
+    url: https://www.sunday-webry.com/detail.php?title_id=472
+    <<: *selectors
+  - id: "474"
+    title: "金剛寺さんは面倒臭い"
+    url: https://www.sunday-webry.com/detail.php?title_id=474
+    <<: *selectors
+  - id: "475"
+    title: "イナズマイレブン"
+    url: https://www.sunday-webry.com/detail.php?title_id=475
+    <<: *selectors
+  - id: "476"
+    title: "九園善虎の友人"
+    url: https://www.sunday-webry.com/detail.php?title_id=476
+    <<: *selectors
+  - id: "477"
+    title: "初恋ゾンビ"
+    url: https://www.sunday-webry.com/detail.php?title_id=477
+    <<: *selectors
+  - id: "478"
+    title: Ｔ"ＨＥ ＳＨＯＷＭＡＮ"
+    url: https://www.sunday-webry.com/detail.php?title_id=478
+    <<: *selectors
+  - id: "479"
+    title: "正義の味方の作り方"
+    url: https://www.sunday-webry.com/detail.php?title_id=479
+    <<: *selectors
+  - id: "480"
+    title: "なんしょんなら！！お義兄さん"
+    url: https://www.sunday-webry.com/detail.php?title_id=480
+    <<: *selectors
+  - id: "489"
+    title: "ねこと私とドイッチュラント"
+    url: https://www.sunday-webry.com/detail.php?title_id=489
+    <<: *selectors
+  - id: "491"
+    title: "男子の品格"
+    url: https://www.sunday-webry.com/detail.php?title_id=491
+    <<: *selectors
+  - id: "492"
+    title: "シノビノ"
+    url: https://www.sunday-webry.com/detail.php?title_id=492
+    <<: *selectors
+  - id: "493"
+    title: "保安官エヴァンスの嘘　～DEAD OR LOVE～"
+    url: https://www.sunday-webry.com/detail.php?title_id=493
+    <<: *selectors
+  - id: "496"
+    title: "漫画家と税金 -確定申告やってみた"
+    url: https://www.sunday-webry.com/-detail.php?title_id=496
+    <<: *selectors
+  - id: "498"
+    title: "パパは漫才師"
+    url: https://www.sunday-webry.com/detail.php?title_id=498
+    <<: *selectors
+  - id: "499"
+    title: "イナズマイレブン～ペンギンを継ぐ者～"
+    url: https://www.sunday-webry.com/detail.php?title_id=499
+    <<: *selectors
+  - id: "502"
+    title: "エンブリヲン・ロード"
+    url: https://www.sunday-webry.com/detail.php?title_id=502
+    <<: *selectors
+  - id: "503"
+    title: "服従都市"
+    url: https://www.sunday-webry.com/detail.php?title_id=503
+    <<: *selectors
+  - id: "506"
+    title: "筋欲のカノジョ"
+    url: https://www.sunday-webry.com/detail.php?title_id=506
+    <<: *selectors
+  - id: "507"
+    title: "よもぎちゃん"
+    url: https://www.sunday-webry.com/detail.php?title_id=507
+    <<: *selectors
+  - id: "508"
+    title: "麗の世界で有栖川"
+    url: https://www.sunday-webry.com/detail.php?title_id=508
+    <<: *selectors
+  - id: "522"
+    title: "ないしょの京子姉さん"
+    url: https://www.sunday-webry.com/detail.php?title_id=522
+    <<: *selectors
+  - id: "535"
+    title: "君は００８"
+    url: https://www.sunday-webry.com/detail.php?title_id=535
+    <<: *selectors
+  - id: "536"
+    title: "メメシス"
+    url: https://www.sunday-webry.com/detail.php?title_id=536
+    <<: *selectors
+  - id: "542"
+    title: "妖怪ギガ"
+    url: https://www.sunday-webry.com/detail.php?title_id=542
+    <<: *selectors
+  - id: "546"
+    title: "内藤死屍累々滅殺デスロード"
+    url: https://www.sunday-webry.com/detail.php?title_id=546
+    <<: *selectors
+  - id: "548"
+    title: "味噌汁でカンパイ！"
+    url: https://www.sunday-webry.com/detail.php?title_id=548
+    <<: *selectors
+  - id: "552"
+    title: "上京コアラ"
+    url: https://www.sunday-webry.com/detail.php?title_id=552
+    <<: *selectors
+  - id: "554"
+    title: "＃世界＃映え殺し＃ツアーズ"
+    url: https://www.sunday-webry.com/detail.php?title_id=554
+    <<: *selectors
+  - id: "560"
+    title: "惨劇塔のモーグリ"
+    url: https://www.sunday-webry.com/detail.php?title_id=560
+    <<: *selectors
+  - id: "561"
+    title: "ヌけない聖剣ちゃん"
+    url: https://www.sunday-webry.com/detail.php?title_id=561
+    <<: *selectors
+  - id: "562"
+    title: "お菓子男子"
+    url: https://www.sunday-webry.com/detail.php?title_id=562
+    <<: *selectors
+  - id: "563"
+    title: "麗しきアグリーキャット"
+    url: https://www.sunday-webry.com/detail.php?title_id=563
+    <<: *selectors
+  - id: "565"
+    title: "幼なじみと神さまと"
+    url: https://www.sunday-webry.com/detail.php?title_id=565
+    <<: *selectors
+  - id: "566"
+    title: "クロノマギア ∞の歯車"
+    url: https://www.sunday-webry.com/detail.php?title_id=566
+    <<: *selectors
+  - id: "567"
+    title: "ボクノマリ"
+    url: https://www.sunday-webry.com/detail.php?title_id=567
+    <<: *selectors
+  - id: "569"
+    title: "ゾン１００～ゾンビになるまでにしたい１００のこと～"
+    url: https://www.sunday-webry.com/detail.php?title_id=569
+    <<: *selectors
+  - id: "570"
+    title: "ガワコス！！"
+    url: https://www.sunday-webry.com/detail.php?title_id=570
+    <<: *selectors
+  - id: "572"
+    title: "薬屋のひとりごと～猫猫の後宮謎解き手帳～"
+    url: https://www.sunday-webry.com/detail.php?title_id=572
+    <<: *selectors
+  - id: "576"
+    title: "殺し屋Ｓのゆらぎ"
+    url: https://www.sunday-webry.com/detail.php?title_id=576
+    <<: *selectors
+  - id: "577"
+    title: "リサの食べられない食卓"
+    url: https://www.sunday-webry.com/detail.php?title_id=577
+    <<: *selectors
+  - id: "584"
+    title: "２ＬＪＫ"
+    url: https://www.sunday-webry.com/detail.php?title_id=584
+    <<: *selectors
+  - id: "585"
+    title: "東京軌道エレベーターガール"
+    url: https://www.sunday-webry.com/detail.php?title_id=585
+    <<: *selectors
+  - id: "586"
+    title: "猫暮らしのゲーマーさん"
+    url: https://www.sunday-webry.com/detail.php?title_id=586
+    <<: *selectors
+  - id: "587"
+    title: "ＪＫ、社畜を飼う"
+    url: https://www.sunday-webry.com/detail.php?title_id=587
+    <<: *selectors
+  - id: "588"
+    title: "不敵で浅井"
+    url: https://www.sunday-webry.com/detail.php?title_id=588
+    <<: *selectors
+  - id: "593"
+    title: "十勝ひとりぼっち農園"
+    url: https://www.sunday-webry.com/detail.php?title_id=593
+    <<: *selectors
+  - id: "594"
+    title: "妹りれき"
+    url: https://www.sunday-webry.com/detail.php?title_id=594
+    <<: *selectors
+  - id: "598"
+    title: "オオヤンキー！！ ～ヤンキー大家さんと僕のアパート暮らし～"
+    url: https://www.sunday-webry.com/detail.php?title_id=598
+    <<: *selectors
+  - id: "624"
+    title: "銀の匙　Ｓｉｌｖｅｒ Ｓｐｏｏｎ"
+    url: https://www.sunday-webry.com/detail.php?title_id=624
+    <<: *selectors
+  - id: "850"
+    title: "疑似ハーレム"
+    url: https://www.sunday-webry.com/detail.php?title_id=850
+    <<: *selectors
+  - id: "872"
+    title: "拳児２"
+    url: https://www.sunday-webry.com/detail.php?title_id=872
+    <<: *selectors
+  - id: "892"
+    title: "ヴァンピアーズ"
+    url: https://www.sunday-webry.com/detail.php?title_id=892
+    <<: *selectors
+  - id: "895"
+    title: "ノケモノたちの夜"
+    url: https://www.sunday-webry.com/detail.php?title_id=895
+    <<: *selectors
+  - id: "904"
+    title: "妖トリカルテ -AYATORI KARTE"
+    url: https://www.sunday-webry.com/-detail.php?title_id=904
+    <<: *selectors
+  - id: "910"
+    title: "ポンコツちゃん紹介中"
+    url: https://www.sunday-webry.com/detail.php?title_id=910
+    <<: *selectors
+  - id: "919"
+    title: "おたみのお頼み"
+    url: https://www.sunday-webry.com/detail.php?title_id=919
+    <<: *selectors
+  - id: "934"
+    title: "清楚なフリをしてますが"
+    url: https://www.sunday-webry.com/detail.php?title_id=934
+    <<: *selectors
+  - id: "955"
+    title: "ギジン－擬人－"
+    url: https://www.sunday-webry.com/detail.php?title_id=955
+    <<: *selectors
+  - id: "958"
+    title: "連載権争奪！ゲッサン10日間全力バトル！"
+    url: https://www.sunday-webry.com/detail.php?title_id=958
+    <<: *selectors
+  - id: "964"
+    title: "任侠転生 －異世界のヤクザ姫－"
+    url: https://www.sunday-webry.com/detail.php?title_id=964
+    <<: *selectors
+  - id: "973"
+    title: "よふかしのうた"
+    url: https://www.sunday-webry.com/detail.php?title_id=973
+    <<: *selectors
+  - id: "988"
+    title: "ガンバレッド×シスターズ"
+    url: https://www.sunday-webry.com/detail.php?title_id=988
+    <<: *selectors
+  - id: "991"
+    title: "アサシン クリード チャイナ"
+    url: https://www.sunday-webry.com/detail.php?title_id=991
+    <<: *selectors
+  - id: "994"
+    title: 嘘"月−ウソツキ−"
+    url: https://www.sunday-webry.com/detail.php?title_id=994
+    <<: *selectors
+  - id: "1000"
+    title: "ＰＩＮＧＫＯＮＧ"
+    url: https://www.sunday-webry.com/detail.php?title_id=1000
+    <<: *selectors
+  - id: "1006"
+    title: "洗脳執事"
+    url: https://www.sunday-webry.com/detail.php?title_id=1006
+    <<: *selectors
+  - id: "1009"
+    title: 22/"7＋α"
+    url: https://www.sunday-webry.com/detail.php?title_id=1009
+    <<: *selectors
+  - id: "1018"
+    title: "穴の家"
+    url: https://www.sunday-webry.com/detail.php?title_id=1018
+    <<: *selectors
+  - id: "1021"
+    title: "異世界ワンターンキル姉さん　～姉同伴の異世界生活はじめました～"
+    url: https://www.sunday-webry.com/detail.php?title_id=1021
+    <<: *selectors
+  - id: "1054"
+    title: "陽気なしめりけ"
+    url: https://www.sunday-webry.com/detail.php?title_id=1054
+    <<: *selectors
+  - id: "1063"
+    title: "カクカゾク"
+    url: https://www.sunday-webry.com/detail.php?title_id=1063
+    <<: *selectors
+  - id: "1066"
+    title: "グレイテストM～偉人麻雀大戦～"
+    url: https://www.sunday-webry.com/detail.php?title_id=1066
+    <<: *selectors
+  - id: "1069"
+    title: "田中と鈴木"
+    url: https://www.sunday-webry.com/detail.php?title_id=1069
+    <<: *selectors
+  - id: "1075"
+    title: 第"2回 連載権争奪！ゲッサン10日間全力バトル！"
+    url: https://www.sunday-webry.com/detail.php?title_id=1075
+    <<: *selectors
+  - id: "1090"
+    title: "サンデールーキー・王者決定戦2020"
+    url: https://www.sunday-webry.com/detail.php?title_id=1090
+    <<: *selectors
+  - id: "1093"
+    title: "葬送のフリーレン"
+    url: https://www.sunday-webry.com/detail.php?title_id=1093
+    <<: *selectors
+  - id: "1099"
+    title: 進"め！ 漫画道！！"
+    url: https://www.sunday-webry.com/detail.php?title_id=1099
+    <<: *selectors
+  - id: "1102"
+    title: "いとやんごとなき"
+    url: https://www.sunday-webry.com/detail.php?title_id=1102
+    <<: *selectors
+  - id: "1105"
+    title: "龍と苺"
+    url: https://www.sunday-webry.com/detail.php?title_id=1105
+    <<: *selectors
+  - id: "1108"
+    title: "サンデーうぇぶり オリジナル読切！"
+    url: https://www.sunday-webry.com/detail.php?title_id=1108
+    <<: *selectors
+  - id: "1114"
+    title: "イケ田くん"
+    url: https://www.sunday-webry.com/detail.php?title_id=1114
+    <<: *selectors
+  - id: "1123"
+    title: "君は冥土様。"
+    url: https://www.sunday-webry.com/detail.php?title_id=1123
+    <<: *selectors
+  - id: "1126"
+    title: "カナカナ"
+    url: https://www.sunday-webry.com/detail.php?title_id=1126
+    <<: *selectors
+  - id: "1132"
+    title: "サンデーうぇぶり出身ルーキー　短期集中連載！"
+    url: https://www.sunday-webry.com/detail.php?title_id=1132
+    <<: *selectors
+  - id: "1144"
+    title: "サンデーバトル8  〜8Pテーマ読切特集〜"
+    url: https://www.sunday-webry.com/detail.php?title_id=1144
+    <<: *selectors
+  - id: "1216"
+    title: "『あだち勉物語』～あだち充を漫画家にした男～"
+    url: https://www.sunday-webry.com/detail.php?title_id=1216
+    <<: *selectors
+  - id: "1255"
+    title: "煩悩☆西遊記"
+    url: https://www.sunday-webry.com/detail.php?title_id=1255
+    <<: *selectors
+  - id: "1258"
+    title: "ゲッサンルーキートライアル！"
+    url: https://www.sunday-webry.com/detail.php?title_id=1258
+    <<: *selectors
