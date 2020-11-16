@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[ゾン１００～ゾンビになるまでにしたい１００のこと～]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-sundaywebry</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/569.xml" rel="self"/>
+    <description><![CDATA[Recent content on ゾン１００～ゾンビになるまでにしたい１００のこと～]]></description>
+    <lastBuildDate>Mon, 16 Nov 2020 08:12:55 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第24話   スイートルームオブザデッド①（前編）]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=84832</link>
+      
+        <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=84832</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話 バケットリストオブザデッド（後編）]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=22299</link>
+      
+        <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=22299</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話 バケットリストオブザデッド（前編）]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=21164</link>
+      
+        <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=21164</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話 アキラオブザデッド]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=21115</link>
+      
+        <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=21115</guid>
+    </item>
+    
+  </channel>
+</rss>

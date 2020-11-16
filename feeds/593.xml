@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[十勝ひとりぼっち農園]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-sundaywebry</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/593.xml" rel="self"/>
+    <description><![CDATA[Recent content on 十勝ひとりぼっち農園]]></description>
+    <lastBuildDate>Mon, 16 Nov 2020 08:13:00 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[82. 第4章 ～収穫祭当日！都会人バーベキュー〜 第82話 できるまで82 痛い目！！]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=75631</link>
+      
+        <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=75631</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[2. 第1章 ～指令！十勝へ移住せよ～ 第2話 できるまで2 農地を探して・・・]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=23118</link>
+      
+        <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=23118</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[1. 第1章 ～指令！十勝へ移住せよ～ 第1話 できるまで1 そうだ十勝、行こう。]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=23117</link>
+      
+        <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=23117</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[0. 特別編]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=23062</link>
+      
+        <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=23062</guid>
+    </item>
+    
+  </channel>
+</rss>

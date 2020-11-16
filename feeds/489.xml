@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[ねこと私とドイッチュラント]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-sundaywebry</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/489.xml" rel="self"/>
+    <description><![CDATA[Recent content on ねこと私とドイッチュラント]]></description>
+    <lastBuildDate>Mon, 16 Nov 2020 08:12:43 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第38話 ベルリンで朝食を]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=84856</link>
+      
+        <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=84856</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第3話 むぎくんが覗いたネクタリン]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=34412</link>
+      
+        <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=34412</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話 お外で昼ごはん]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=34280</link>
+      
+        <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=34280</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話 朝ごはん、目玉焼き]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=33921</link>
+      
+        <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=33921</guid>
+    </item>
+    
+  </channel>
+</rss>

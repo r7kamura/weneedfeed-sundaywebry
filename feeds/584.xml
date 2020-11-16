@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[２ＬＪＫ]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-sundaywebry</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/584.xml" rel="self"/>
+    <description><![CDATA[Recent content on ２ＬＪＫ]]></description>
+    <lastBuildDate>Mon, 16 Nov 2020 08:12:58 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第19.5話]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=50482</link>
+      
+        <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=50482</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第3話 洗濯／選択]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=22474</link>
+      
+        <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=22474</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話 春のビワ]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=22430</link>
+      
+        <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=22430</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話 我が家]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=21972</link>
+      
+        <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=21972</guid>
+    </item>
+    
+  </channel>
+</rss>

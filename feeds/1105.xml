@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[龍と苺]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-sundaywebry</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/1105.xml" rel="self"/>
+    <description><![CDATA[Recent content on 龍と苺]]></description>
+    <lastBuildDate>Mon, 16 Nov 2020 08:13:15 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第22話 何かある]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=86335</link>
+      
+        <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=86335</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第3話 化け物]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=73261</link>
+      
+        <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=73261</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話 ケンカの続き]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=72490</link>
+      
+        <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=72490</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話 命懸け]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=72277</link>
+      
+        <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=72277</guid>
+    </item>
+    
+  </channel>
+</rss>

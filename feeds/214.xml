@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[幻魔大戦 Ｒｅｂｉｒｔｈ]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-sundaywebry</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/214.xml" rel="self"/>
+    <description><![CDATA[Recent content on 幻魔大戦 Ｒｅｂｉｒｔｈ]]></description>
+    <lastBuildDate>Mon, 16 Nov 2020 08:12:26 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第2話 東 丈Ⅰ (1)]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=40313</link>
+      
+        <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=40313</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話 グランド・プロローグ (2)]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=40312</link>
+      
+        <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=40312</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話 グランド・プロローグ (1)]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=40311</link>
+      
+        <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=40311</guid>
+    </item>
+    
+  </channel>
+</rss>

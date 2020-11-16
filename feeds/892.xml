@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[ヴァンピアーズ]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-sundaywebry</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/892.xml" rel="self"/>
+    <description><![CDATA[Recent content on ヴァンピアーズ]]></description>
+    <lastBuildDate>Mon, 16 Nov 2020 08:13:03 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[7. #4 INTRUDER (2)]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=82030</link>
+      
+        <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=82030</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[3. #2 DEATH (2)]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=82027</link>
+      
+        <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=82027</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[2. #2 DEATH (1)]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=55720</link>
+      
+        <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=55720</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[1. #1 ENCOUNTER]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=55714</link>
+      
+        <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=55714</guid>
+    </item>
+    
+  </channel>
+</rss>

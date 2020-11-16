@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[恋情デスペラード]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-sundaywebry</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/47.xml" rel="self"/>
+    <description><![CDATA[Recent content on 恋情デスペラード]]></description>
+    <lastBuildDate>Mon, 16 Nov 2020 08:12:21 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[ACT2 女と悪党、八里を走る (1)]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=38400</link>
+      
+        <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=38400</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[ACT1 おひけぇなすって、女一匹旅ガラス (2)]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=38399</link>
+      
+        <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=38399</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[ACT1 おひけぇなすって、女一匹旅ガラス (1)]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=38398</link>
+      
+        <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=38398</guid>
+    </item>
+    
+  </channel>
+</rss>

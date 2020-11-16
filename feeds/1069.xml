@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[田中と鈴木]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-sundaywebry</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/1069.xml" rel="self"/>
+    <description><![CDATA[Recent content on 田中と鈴木]]></description>
+    <lastBuildDate>Mon, 16 Nov 2020 08:13:13 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第1話 田舎と映え]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=68383</link>
+      
+        <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=68383</guid>
+    </item>
+    
+  </channel>
+</rss>

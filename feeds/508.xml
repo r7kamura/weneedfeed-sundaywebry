@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[麗の世界で有栖川]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-sundaywebry</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/508.xml" rel="self"/>
+    <description><![CDATA[Recent content on 麗の世界で有栖川]]></description>
+    <lastBuildDate>Mon, 16 Nov 2020 08:12:48 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[三十二話 闇の中で]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=81412</link>
+      
+        <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=81412</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[壱話 旅勃ち]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=35288</link>
+      
+        <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=35288</guid>
+    </item>
+    
+  </channel>
+</rss>

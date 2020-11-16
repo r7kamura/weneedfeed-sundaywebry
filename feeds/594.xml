@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[妹りれき]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-sundaywebry</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/594.xml" rel="self"/>
+    <description><![CDATA[Recent content on 妹りれき]]></description>
+    <lastBuildDate>Mon, 16 Nov 2020 08:13:01 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[3件目 怖い話]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=23706</link>
+      
+        <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=23706</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[2件目 ダダダダ]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=23610</link>
+      
+        <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=23610</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[1件目 地球温暖化]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=23181</link>
+      
+        <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=23181</guid>
+    </item>
+    
+  </channel>
+</rss>

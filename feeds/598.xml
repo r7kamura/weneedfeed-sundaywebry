@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[オオヤンキー！！ ～ヤンキー大家さんと僕のアパート暮らし～]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-sundaywebry</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/598.xml" rel="self"/>
+    <description><![CDATA[Recent content on オオヤンキー！！ ～ヤンキー大家さんと僕のアパート暮らし～]]></description>
+    <lastBuildDate>Mon, 16 Nov 2020 08:13:01 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第20話おまけ]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=70123</link>
+      
+        <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=70123</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話 花ノ咲ハイツの大家さん]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=24280</link>
+      
+        <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=24280</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話おまけ]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=24318</link>
+      
+        <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=24318</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話 はじめての一人暮らし]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=24281</link>
+      
+        <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=24281</guid>
+    </item>
+    
+  </channel>
+</rss>

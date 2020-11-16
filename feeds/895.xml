@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[ノケモノたちの夜]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-sundaywebry</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/895.xml" rel="self"/>
+    <description><![CDATA[Recent content on ノケモノたちの夜]]></description>
+    <lastBuildDate>Mon, 16 Nov 2020 08:13:03 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[45. 第45夜 開戦]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=84868</link>
+      
+        <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=84868</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[2. 第2夜 門出の祝い]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=44185</link>
+      
+        <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=44185</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[1. 第1夜 Let's be alone together]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=44089</link>
+      
+        <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=44089</guid>
+    </item>
+    
+  </channel>
+</rss>

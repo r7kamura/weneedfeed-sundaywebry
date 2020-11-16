@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[アサギロ～浅葱狼～]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-sundaywebry</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/14.xml" rel="self"/>
+    <description><![CDATA[Recent content on アサギロ～浅葱狼～]]></description>
+    <lastBuildDate>Mon, 16 Nov 2020 08:12:20 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[続きは単行本で！ 1〜22巻発売中！]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=87355</link>
+      
+        <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=87355</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[3. 第2話 「お役目、介錯。」 (1)]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=39182</link>
+      
+        <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=39182</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[2. 第1話 「惣次郎、十二歳。」 (2)]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=39181</link>
+      
+        <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=39181</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[1. 第1話 「惣次郎、十二歳。」 (1)]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=39180</link>
+      
+        <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=39180</guid>
+    </item>
+    
+  </channel>
+</rss>

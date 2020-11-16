@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[嘘"月−ウソツキ−"]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-sundaywebry</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/994.xml" rel="self"/>
+    <description><![CDATA[Recent content on 嘘"月−ウソツキ−"]]></description>
+    <lastBuildDate>Mon, 16 Nov 2020 08:13:08 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[続きは単行本で！1〜4巻発売中！]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=81661</link>
+      
+        <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=81661</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第3話]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=57751</link>
+      
+        <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=57751</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=56383</link>
+      
+        <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=56383</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=55615</link>
+      
+        <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=55615</guid>
+    </item>
+    
+  </channel>
+</rss>

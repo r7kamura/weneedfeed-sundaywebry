@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[クロノマギア ∞の歯車]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-sundaywebry</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/566.xml" rel="self"/>
+    <description><![CDATA[Recent content on クロノマギア ∞の歯車]]></description>
+    <lastBuildDate>Mon, 16 Nov 2020 08:12:54 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Last Gear ∞の歯車]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=46075</link>
+      
+        <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=46075</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Gear 3 合体]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=21102</link>
+      
+        <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=21102</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Gear 2 マギア 0]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=21098</link>
+      
+        <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=21098</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Gear 1 ブタとカード]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=20969</link>
+      
+        <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=20969</guid>
+    </item>
+    
+  </channel>
+</rss>

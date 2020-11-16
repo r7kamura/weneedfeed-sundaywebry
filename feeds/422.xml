@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[好奇心は女子高生を殺す]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-sundaywebry</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/422.xml" rel="self"/>
+    <description><![CDATA[Recent content on 好奇心は女子高生を殺す]]></description>
+    <lastBuildDate>Mon, 16 Nov 2020 08:12:30 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[キセキのない世界]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=34600</link>
+      
+        <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=34600</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第3話 雷王星からの方程式]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=27789</link>
+      
+        <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=27789</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話 環状線から輪っかの星に]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=27788</link>
+      
+        <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=27788</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話 春のうららの初体験]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=27787</link>
+      
+        <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=27787</guid>
+    </item>
+    
+  </channel>
+</rss>
