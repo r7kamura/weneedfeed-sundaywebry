@@ -7,7 +7,18 @@
     <link>https://r7kamura.github.io/weneedfeed-sundaywebry</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/535.xml" rel="self"/>
     <description><![CDATA[Recent content on 君は００８]]></description>
-    <lastBuildDate>Mon, 16 Nov 2020 15:12:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2020 15:13:13 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[続きは単行本で！ 1〜11巻発売中！]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=87742</link>
+      
+        <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=87742</guid>
+    </item>
     
     <item>
       <title><![CDATA[第53話 Why?]]></title>
@@ -106,17 +117,6 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=46039</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第35話 伝統、そして伝説]]></title>
-      <link>https://www.sunday-webry.com/viewer.php?chapter_id=44248</link>
-      
-        <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=44248</guid>
     </item>
     
   </channel>
