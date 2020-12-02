@@ -1,5 +1,6 @@
 selectors: &selectors
   item_selector: .detail-block__item
+  item_image_selector: img
   item_link_selector: .
   item_time_selector: .detail-block__item--date
   item_title_selector: .detail-block__item--title
