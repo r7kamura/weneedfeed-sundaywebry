@@ -7,7 +7,7 @@
     <link>https://www.sunday-webry.com/detail.php?title_id=106</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/106.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:19:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:26:49 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第二話 タコ焼きとお月さま (1)]]></title>
@@ -18,6 +18,8 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=11701</guid>
+      
+        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/106/chapter/11701/chapter_thumbnail/39091.jpg?hash=tmjQyO7ZGLzV61EmBn-Zow&amp;expires=2145884400" length="0" type=""/>
       
     </item>
     
@@ -31,6 +33,8 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=11702</guid>
       
+        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/106/chapter/11702/chapter_thumbnail/39090.jpg?hash=_s73nog3Z7rSJnrIUqTOrQ&amp;expires=2145884400" length="0" type=""/>
+      
     </item>
     
     <item>
@@ -42,6 +46,8 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=11703</guid>
+      
+        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/106/chapter/11703/chapter_thumbnail/39089.jpg?hash=DTsJqvJvhZ28BgiKC4395Q&amp;expires=2145884400" length="0" type=""/>
       
     </item>
     

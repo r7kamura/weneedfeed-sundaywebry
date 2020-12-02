@@ -7,7 +7,7 @@
     <link>https://www.sunday-webry.com/detail.php?title_id=427</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/427.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:26:58 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第3話 そう、歯ブラシだけに]]></title>
@@ -18,6 +18,8 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=28325</guid>
+      
+        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/427/chapter/28325/chapter_thumbnail/27397.jpg?hash=VefFXdsrZxpYlvan8QAz9A&amp;expires=2145884400" length="0" type=""/>
       
     </item>
     
@@ -31,6 +33,8 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=28324</guid>
       
+        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/427/chapter/28324/chapter_thumbnail/27396.jpg?hash=Qyhh_StJUN0PRhEgy2vrwg&amp;expires=2145884400" length="0" type=""/>
+      
     </item>
     
     <item>
@@ -42,6 +46,8 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=28323</guid>
+      
+        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/427/chapter/28323/chapter_thumbnail/27395.jpg?hash=3q52ITjMMKg5t9OmjsDWcg&amp;expires=2145884400" length="0" type=""/>
       
     </item>
     

@@ -7,7 +7,7 @@
     <link>https://www.sunday-webry.com/detail.php?title_id=562</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/562.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:20:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:27:19 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[おまけ9]]></title>
@@ -18,6 +18,8 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=47941</guid>
+      
+        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/562/chapter/47941/chapter_thumbnail/201112.jpg?hash=NpNOwB0iTAXtgksyiTmBJA&amp;expires=2145884400" length="0" type=""/>
       
     </item>
     
@@ -31,6 +33,8 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=20507</guid>
       
+        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/562/chapter/20507/chapter_thumbnail/41906.jpg?hash=AOfq2MmDCmi64KdbPUB59A&amp;expires=2145884400" length="0" type=""/>
+      
     </item>
     
     <item>
@@ -43,6 +47,8 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=19744</guid>
       
+        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/562/chapter/19744/chapter_thumbnail/41904.jpg?hash=3ykR-zEsjSUSHEH8-i2OVQ&amp;expires=2145884400" length="0" type=""/>
+      
     </item>
     
     <item>
@@ -54,6 +60,8 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=19743</guid>
+      
+        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/562/chapter/19743/chapter_thumbnail/41902.jpg?hash=MKi-yvHJCiRYVnOE6Am8Ig&amp;expires=2145884400" length="0" type=""/>
       
     </item>
     

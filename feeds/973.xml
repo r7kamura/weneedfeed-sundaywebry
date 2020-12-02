@@ -7,7 +7,7 @@
     <link>https://www.sunday-webry.com/detail.php?title_id=973</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/973.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:27:33 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[続きは単行本で！ 1〜5巻発売中！]]></title>
@@ -18,6 +18,8 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=84376</guid>
+      
+        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/973/chapter/84376/chapter_thumbnail/372523.jpg?hash=zNIWqQlGRS7g8nhjZe2lVg&amp;expires=2145884400" length="0" type=""/>
       
     </item>
     
@@ -31,6 +33,8 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=51937</guid>
       
+        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/973/chapter/51937/chapter_thumbnail/217135.jpg?hash=zO6F_j7I1RbCEPkaejSmlw&amp;expires=2145884400" length="0" type=""/>
+      
     </item>
     
     <item>
@@ -42,6 +46,8 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=51934</guid>
+      
+        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/973/chapter/51934/chapter_thumbnail/217129.jpg?hash=SZQLgFkqeEnCisc261PmtA&amp;expires=2145884400" length="0" type=""/>
       
     </item>
     

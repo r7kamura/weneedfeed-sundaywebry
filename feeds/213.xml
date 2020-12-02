@@ -7,7 +7,7 @@
     <link>https://www.sunday-webry.com/detail.php?title_id=213</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/213.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:19:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:26:51 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[3. 第3話 頂肘]]></title>
@@ -18,6 +18,8 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=27346</guid>
+      
+        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/213/chapter/27346/chapter_thumbnail/30215.jpg?hash=xaJfVZbMgKoYaiXEo8Se8Q&amp;expires=2145884400" length="0" type=""/>
       
     </item>
     
@@ -31,6 +33,8 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=27345</guid>
       
+        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/213/chapter/27345/chapter_thumbnail/30214.jpg?hash=IJa3FrvmCXj1xWHNdI-JaQ&amp;expires=2145884400" length="0" type=""/>
+      
     </item>
     
     <item>
@@ -42,6 +46,8 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=27344</guid>
+      
+        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/213/chapter/27344/chapter_thumbnail/30213.jpg?hash=17wGpx0pXbYNZuTHkgfqNw&amp;expires=2145884400" length="0" type=""/>
       
     </item>
     
