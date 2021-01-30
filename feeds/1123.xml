@@ -7,7 +7,21 @@
     <link>https://www.sunday-webry.com/detail.php?title_id=1123</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/1123.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Fri, 29 Jan 2021 15:15:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jan 2021 15:16:01 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第22話 君と文化の段。]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=89254</link>
+      
+        <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=89254</guid>
+      
+        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/1123/chapter/89254/chapter_thumbnail/395719.jpg?hash=YF6g527uEZQy8mhk3GTXRQ&amp;expires=2145884400" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[新年イラスト]]></title>
@@ -20,20 +34,6 @@
       <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=89260</guid>
       
         <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/1123/chapter/89260/chapter_thumbnail/394111.jpg?hash=a_B7sVNhayU-IjVH188-_w&amp;expires=2145884400" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第21話 君は平均60点。]]></title>
-      <link>https://www.sunday-webry.com/viewer.php?chapter_id=89251</link>
-      
-        <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=89251</guid>
-      
-        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/1123/chapter/89251/chapter_thumbnail/392551.jpg?hash=jt3Xi4xEheeZQkJv02u37w&amp;expires=2145884400" length="0" type="image/jpeg"/>
       
     </item>
     
