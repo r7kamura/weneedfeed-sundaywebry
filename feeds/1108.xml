@@ -7,7 +7,21 @@
     <link>https://www.sunday-webry.com/detail.php?title_id=1108</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/1108.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Wed, 26 May 2021 15:13:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 May 2021 15:21:04 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[「ファジーコア」作／はくり]]></title>
+      <link>https://www.sunday-webry.com/viewer.php?chapter_id=99901</link>
+      
+        <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=99901</guid>
+      
+        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/1108/chapter/99901/chapter_thumbnail/486226.jpg?hash=V92hAIDaWcu4MF1zoaWIHQ&amp;expires=2145884400" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[「ばあちゃん、JKになる」作／葛西尚]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=71788</guid>
       
         <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/1108/chapter/71788/chapter_thumbnail/313492.jpg?hash=X-iqLchjzgF7MJYEwDoEUg&amp;expires=2145884400" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[「リベンジ・アルマ」作／雨乃月靉一]]></title>
-      <link>https://www.sunday-webry.com/viewer.php?chapter_id=71785</link>
-      
-        <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=71785</guid>
-      
-        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/1108/chapter/71785/chapter_thumbnail/313486.jpg?hash=w0Dn3JoNB9wNZmviC4FFHg&amp;expires=2145884400" length="0" type="image/jpeg"/>
       
     </item>
     
