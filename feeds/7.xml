@@ -7,49 +7,7 @@
     <link>https://www.sunday-webry.com/detail.php?title_id=7</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/7.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 08 Nov 2021 15:27:37 +0000</lastBuildDate>
-    
-    <item>
-      <title><![CDATA[3. 第3話 拡大]]></title>
-      <link>https://www.sunday-webry.com/viewer.php?chapter_id=45856</link>
-      
-        <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=45856</guid>
-      
-        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/7/chapter/45856/chapter_thumbnail/194305.jpg?hash=5OaFWyumUCs5NN1Ojm4-ow&amp;expires=2145884400" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[2. 第2話 ハナヨ]]></title>
-      <link>https://www.sunday-webry.com/viewer.php?chapter_id=45855</link>
-      
-        <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=45855</guid>
-      
-        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/7/chapter/45855/chapter_thumbnail/194302.jpg?hash=pqioceDSXQ4q-qzQ8Q_Sxw&amp;expires=2145884400" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[1. 第1話 異変]]></title>
-      <link>https://www.sunday-webry.com/viewer.php?chapter_id=45854</link>
-      
-        <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=45854</guid>
-      
-        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/7/chapter/45854/chapter_thumbnail/194299.jpg?hash=UDDcoKcLg3123cqm602LuA&amp;expires=2145884400" length="0" type="image/jpeg"/>
-      
-    </item>
+    <lastBuildDate>Tue, 09 Nov 2021 15:24:21 +0000</lastBuildDate>
     
   </channel>
 </rss>

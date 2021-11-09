@@ -7,63 +7,7 @@
     <link>https://www.sunday-webry.com/detail.php?title_id=1009</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/1009.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 08 Nov 2021 15:28:33 +0000</lastBuildDate>
-    
-    <item>
-      <title><![CDATA[1巻PR]]></title>
-      <link>https://www.sunday-webry.com/viewer.php?chapter_id=60229</link>
-      
-        <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=60229</guid>
-      
-        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/1009/chapter/60229/chapter_thumbnail/262360.jpg?hash=y6s_Z2LMD1mhotnerHvUjQ&amp;expires=2145884400" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第3話　都×ニコル]]></title>
-      <link>https://www.sunday-webry.com/viewer.php?chapter_id=58582</link>
-      
-        <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=58582</guid>
-      
-        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/1009/chapter/58582/chapter_thumbnail/251098.jpg?hash=VhpGyfv7cCC_Wux4Iz_ZYw&amp;expires=2145884400" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第2話　みう×絢香]]></title>
-      <link>https://www.sunday-webry.com/viewer.php?chapter_id=57961</link>
-      
-        <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=57961</guid>
-      
-        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/1009/chapter/57961/chapter_thumbnail/247987.jpg?hash=ciQhwZcdMAfXM0ZBdlKZ5A&amp;expires=2145884400" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第1話　滝川みう]]></title>
-      <link>https://www.sunday-webry.com/viewer.php?chapter_id=57907</link>
-      
-        <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=57907</guid>
-      
-        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/1009/chapter/57907/chapter_thumbnail/247342.jpg?hash=iYZHPHrwwBUmGV2PpXT9hw&amp;expires=2145884400" length="0" type="image/jpeg"/>
-      
-    </item>
+    <lastBuildDate>Tue, 09 Nov 2021 15:25:30 +0000</lastBuildDate>
     
   </channel>
 </rss>

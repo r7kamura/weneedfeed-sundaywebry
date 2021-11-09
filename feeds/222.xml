@@ -7,63 +7,7 @@
     <link>https://www.sunday-webry.com/detail.php?title_id=222</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-sundaywebry/feeds/222.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 08 Nov 2021 15:27:45 +0000</lastBuildDate>
-    
-    <item>
-      <title><![CDATA[37. 第37話 約束の3本目]]></title>
-      <link>https://www.sunday-webry.com/viewer.php?chapter_id=18385</link>
-      
-        <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=18385</guid>
-      
-        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/222/chapter/18385/chapter_thumbnail/27956.jpg?hash=WHLBCaiYS07dzvNpR8sSVg&amp;expires=2145884400" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[3. 第3話 リベンジ]]></title>
-      <link>https://www.sunday-webry.com/viewer.php?chapter_id=18351</link>
-      
-        <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=18351</guid>
-      
-        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/222/chapter/18351/chapter_thumbnail/27915.jpg?hash=G3g5GiFVxJ4UlDj-nGjPdA&amp;expires=2145884400" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[2. 第2話 2つめの類似]]></title>
-      <link>https://www.sunday-webry.com/viewer.php?chapter_id=18350</link>
-      
-        <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=18350</guid>
-      
-        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/222/chapter/18350/chapter_thumbnail/27914.jpg?hash=i1Y0GlQnB8SDlLk0e2wq0w&amp;expires=2145884400" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[1. 第1話 灰色の天才]]></title>
-      <link>https://www.sunday-webry.com/viewer.php?chapter_id=18349</link>
-      
-        <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://www.sunday-webry.com/viewer.php?chapter_id=18349</guid>
-      
-        <enclosure url="https://webry-img.tokyo-cdn.com/secure/title/222/chapter/18349/chapter_thumbnail/27913.jpg?hash=0xECcgze0rwdLqIViYXZBw&amp;expires=2145884400" length="0" type="image/jpeg"/>
-      
-    </item>
+    <lastBuildDate>Tue, 09 Nov 2021 15:24:30 +0000</lastBuildDate>
     
   </channel>
 </rss>
